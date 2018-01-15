@@ -1,3 +1,4 @@
+left ctrl
 left shift
 z
 x
@@ -9,7 +10,7 @@ m
 ,
 .
 /
-right shift
+left shift
 a
 s
 d
@@ -21,7 +22,7 @@ k
 l
 ;
 '
-tab
+return
 q
 w
 e
@@ -34,8 +35,6 @@ o
 p
 [
 ]
-#
-`
 1
 2
 3
@@ -48,3 +47,4 @@ p
 0
 -
 =
+backspace
